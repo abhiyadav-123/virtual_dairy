@@ -1,0 +1,15 @@
+# .gitignore
+
+# Node.js
+node_modules/
+.env
+dist/
+build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+c
